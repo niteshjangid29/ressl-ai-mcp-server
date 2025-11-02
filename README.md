@@ -19,7 +19,6 @@ You can run this server locally and connect it to the MCP Inspector for testing 
 ```
 mcp-keyword-search/
 ├── server.py
-├── requirements.txt
 ├── my_files/
 │   └── stock.txt
 └── README.md
