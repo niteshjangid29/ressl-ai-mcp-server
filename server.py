@@ -2,7 +2,6 @@
 from mcp.server.fastmcp import FastMCP
 from pathlib import Path
 import re
-import asyncio
 from typing import Any, Dict, List
 
 # Create an MCP server
